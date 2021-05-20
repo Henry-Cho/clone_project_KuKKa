@@ -4,8 +4,6 @@
 
 ## 📒 Project Intro
 
----
-
 - This project aims at cloning a Korean website called [Kukka](https://kukka.kr/). Our team specifically targeted the ["꽃다발" page.](https://kukka.kr/shop/flowers/) In particular, Front-end used **React** to structure & operate the website.
 
 ### ⏳ Project duration
