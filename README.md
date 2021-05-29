@@ -1,6 +1,4 @@
-# Kukka Clone Coding (Front-end) // Back-end : Github
-
----
+# Kukka Clone Coding (Front-end)
 
 ## 📒 Project Intro
 
@@ -12,16 +10,12 @@
 
 ## 🤝 Teammates
 
----
-
 - Eunjin Park (Back-end)
 - Joonyeop Kim (Back-end)
 - Hyungseok Henry Cho (Front-end)
 - Yonghyeon Choi (Front-end)
 
 ## 🔧 Features and Collaboration tools (Front-end)
-
----
 
 ### [Login & Signup pages]
 
@@ -41,16 +35,10 @@
 
 - We used styled-components and material-ui.
 
----
-
 ### ⚒ Collaboration tool
 
 - Git, Slack, Kakao Talk
 
----
-
 ## 🎞 Project video
-
----
 
 ### [YouTube Link](https://youtu.be/sPRQiZKwT2w)
