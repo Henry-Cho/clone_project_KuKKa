@@ -1,12 +1,17 @@
 # Kukka Clone Coding (Front-end)
 
+
 ## 📒 Project Intro
 
 - This project aims at cloning a Korean website called [Kukka](https://kukka.kr/). Our team specifically targeted the ["꽃다발" page.](https://kukka.kr/shop/flowers/) In particular, Front-end used **React** to structure & operate the website.
 
+
+
 ### ⏳ Project duration
 
 - April 2nd, 2021 - April 8th, 2021
+
+
 
 ## 🤝 Teammates
 
@@ -15,7 +20,10 @@
 - Hyungseok Henry Cho (Front-end)
 - Yonghyeon Choi (Front-end)
 
+
+
 ## 🔧 Features and Collaboration tools (Front-end)
+
 
 ### [Login & Signup pages]
 
@@ -39,6 +47,10 @@
 
 - Git, Slack, Kakao Talk
 
+
+
 ## 🎞 Project video
+
+
 
 ### [YouTube Link](https://youtu.be/sPRQiZKwT2w)
